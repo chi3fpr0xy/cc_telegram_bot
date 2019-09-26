@@ -10,7 +10,7 @@ telebot.logger.setLevel(logging.DEBUG) # Outputs debug messages to console.
 # Global objects
 # TODO: Specify author's Telegram ID
 author = {
-    'id': '???',
+    'id': '@Skipp3r',
     'email': 'chi3fpr0xy@gmail.com'
 }
 
